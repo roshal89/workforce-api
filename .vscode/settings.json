@@ -1,0 +1,8 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/.sfdx": true
+  },
+  "uncrustify.executablePath.windows": "C:\\Users\\ShaliniTripathi\\Downloads\\uncrustify-0.71.0_f-win32\\uncrustify.exe",
+}
